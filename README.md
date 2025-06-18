@@ -11,7 +11,7 @@ I am a Frontend web developer.  I have been working on front-end development for
 
 I can build real world projects/websites using the latest frontend technologies available today. And to ensure that each of my websites is responsive, has an immersive design and user interface,
 
-Skills: NEXT.JS / REACT / JS / HTML / CSS/TAILWIND CSS/BOOTSTRAP-5/MATERIAL UI
+Skills :  NEXT.JS / REACT / JS / HTML / CSS/ TAILWIND CSS/ BOOTSTRAP-5/ MATERIAL UI
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning WordPress 
